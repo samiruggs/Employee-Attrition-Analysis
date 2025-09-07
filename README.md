@@ -2,9 +2,9 @@
 
 ## Analysis of the company's employee attrition rate and the factors contributing to it.
 
-<img width="1920" height="1080" alt="EMPLOYEE ATTRITION ANALYSIS" src="https://github.com/user-attachments/assets/681e58a4-8a44-438a-8036-54fc474fd3dd" />
+<img width="1536" height="1024" alt="ChatGPT Image Sep 7, 2025, 10_16_14 PM" src="https://github.com/user-attachments/assets/f9760071-35bc-44b0-aa3e-4a2545553e84" />
 
-[^1]: Source: Created in Canva.
+[^1]: Source: Generated Using Chatgtp.
 
 ### Project Overview: Understanding Why Employees Leave
 
@@ -67,10 +67,12 @@ The first step in exploring the data was to build simple visualizations to see h
 
 **Age group most affected:** 24–45 years
 
+
 ![HR-Dashboard.png](https://public.tableau.com/views/HR_Analytics_17558935452910/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 [^3]: Source: Created in Tableau.
 
+Interact with the dashboard ![here](https://public.tableau.com/views/HR_Analytics_17558935452910/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 **By Department:**
 
