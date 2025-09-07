@@ -4,6 +4,8 @@
 
 <img width="1920" height="1080" alt="EMPLOYEE ATTRITION ANALYSIS" src="https://github.com/user-attachments/assets/681e58a4-8a44-438a-8036-54fc474fd3dd" />
 
+[^1]: Source: Created in Canva.
+
 ### Project Overview: Understanding Why Employees Leave
 
 **Introduction**
@@ -20,6 +22,8 @@ Right now, the company keeps track of how many employees leave, but we don’t f
 
 Without clear, data-driven answers to these questions, our retention efforts risk being reactive rather than strategic. This means we may spend time and resources on the wrong solutions, while still losing valuable talent.
 ![WhatsApp Image 2025-09-06 at 10 13 28 PM](https://github.com/user-attachments/assets/db24e8bf-4851-4a98-abab-c593c93bfaf9)
+
+[^note]: Source: Image generated using Gemini.
 
 ### Data Sources
 
@@ -47,6 +51,8 @@ These steps help transform the raw data into a format that’s cleaner, more con
 
 <img width="1584" height="396" alt="Blue Dark Blue Gradients Corporate LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/09691dc7-f035-47eb-95e9-a65d0fea7f08" />
 
+[^2]: Source: Created in Canva.
+
 
 The first step in exploring the data was to build simple visualizations to see how employee attrition was distributed across the company. This revealed that turnover is not evenly spread—certain groups and roles are much more affected than others.
 
@@ -62,6 +68,8 @@ The first step in exploring the data was to build simple visualizations to see h
 **Age group most affected:** 24–45 years
 
 ![HR-Dashboard.png](https://public.tableau.com/views/HR_Analytics_17558935452910/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+[^3]: Source: Created in Tableau.
 
 
 **By Department:**
@@ -102,6 +110,7 @@ In short, attrition is most concentrated in the **24–45 age group**, **sales r
 ### Data Analysis
 <img width="1584" height="396" alt="Blue Dark Blue Gradients Corporate LinkedIn Banner (2)" src="https://github.com/user-attachments/assets/8da77151-004a-4f73-8868-37993a11c4f7" />
 
+[^4]: Source: Created in Canva.
 
 To move beyond surface-level numbers, several advanced features in Tableau were used to uncover deeper insights.
 
@@ -109,7 +118,9 @@ One of the most useful tools was Level of Detail (LOD) Expressions, which allowe
 
 Another important feature was adding interactive dashboard actions. For instance, if a user clicks on “Sales” in the drop box, the rest of the dashboard (such as the douh nut chart or age group chart) instantly updates to show only Sales data. This interactivity makes it easy for HR or leadership to drill down, explore patterns, and find answers on their own without needing to dig into raw data.
 
-<img width="1536" height="1024" alt="Disappointed Expression in Light Blue Shirt" src="https://github.com/user-attachments/assets/c79aae7b-2cff-44b2-9227-62ee0f32532e" />
+<img width="1536" height="1024" alt="Disappointed Expression in Light Blue Shirt" src="https://github.com/user-attachments/assets/c79aae7b-2cff-44b2-9227-62ee0f32532e" />   
+
+[^5]: Source: Image generated using Chatgtp.
 
 
 **Code Snippet**
@@ -120,6 +131,8 @@ SUM([Attrition Count]) / SUM([Employee Count])
 ### Results & Findings
 
 <img width="1584" height="396" alt="Blue Dark Blue Gradients Corporate LinkedIn Banner (3)" src="https://github.com/user-attachments/assets/6ed720eb-3b21-4efd-964b-216a42fea879" />
+
+[^6]: Source: Created in Canva.
 
 + Overall attrition: 16.12% (that’s 237 out of 1,470 employees).
 + Department hotspots: Sales is the biggest contributor to departures, followed closely by Development. Together, they account for most exits.
@@ -151,6 +164,8 @@ Create a people-friendly workplace
 5. Ensure that employees at every level can see a future within the company. Make career advancement a core part of the organization’s long-term goals and strategy.
 
   <img width="2048" height="2048" alt="Gemini_Generated_Image_63drlm63drlm63dr" src="https://github.com/user-attachments/assets/27bbd6de-5fec-4dd1-8cd0-8d82649611f4" />
+
+  [^7]: Source: Image generated using Gemini.
 
 
 ### Limitations
