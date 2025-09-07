@@ -108,6 +108,9 @@ One of the most useful tools was Level of Detail (LOD) Expressions, which allowe
 
 Another important feature was adding interactive dashboard actions. For instance, if a user clicks on “Sales” in the drop box, the rest of the dashboard (such as the douh nut chart or age group chart) instantly updates to show only Sales data. This interactivity makes it easy for HR or leadership to drill down, explore patterns, and find answers on their own without needing to dig into raw data.
 
+<img width="1536" height="1024" alt="Disappointed Expression in Light Blue Shirt" src="https://github.com/user-attachments/assets/c79aae7b-2cff-44b2-9227-62ee0f32532e" />
+
+
 **Code Snippet**
 
 // 1. Attrition rate for the selected department
