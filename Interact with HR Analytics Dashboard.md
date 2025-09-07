@@ -1,1 +1,1 @@
-![Interact with HR Analytics Dashboard](https://public.tableau.com/views/HR_Analytics_17558935452910/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+[Interact with HR Analytics Dashboard](https://public.tableau.com/views/HR_Analytics_17558935452910/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
