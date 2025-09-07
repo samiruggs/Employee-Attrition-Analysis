@@ -16,20 +16,19 @@ This project takes a deep look at why employees leave the company. The main focu
 
 Right now, the company keeps track of how many employees leave, but we don’t fully understand the deeper reasons behind it. Important questions are still unanswered, such as:
 + Which departments, roles, or employee groups are most affected by turnover?
-+ What factors are most closely linked to an employee’s decision to leave (for example, wprking conditions, Environment Satisfaction, Work-Life Balance, Job Satisfaction ans relationship Satisfaction?
++ What factors are most closely linked to an employee’s decision to leave (for example, working conditions, Environment Satisfaction, Work-Life Balance, Job Satisfaction ans relationship Satisfaction?
 
 Without clear, data-driven answers to these questions, our retention efforts risk being reactive rather than strategic. This means we may spend time and resources on the wrong solutions, while still losing valuable talent.
 ![WhatsApp Image 2025-09-06 at 10 13 28 PM](https://github.com/user-attachments/assets/db24e8bf-4851-4a98-abab-c593c93bfaf9)
 
 ### Data Sources
 
-For this analysis, we used an anonymous HR dataset that represents a snapshot of the company’s workforce. The dataset includes important details about employees, such as:
+For this analysis, we used an anonymous HR dataset from Youtube that represents a snapshot of the company’s workforce. The dataset includes important details about employees, such as:
 + **Demographics:** Gender, age group, and education level
 + **Job Information:** Department and job role
 + **Status:** Whether the employee stayed or left, along with total headcount
-+ **Location:** State of employment
 
-This data gives us the foundation to explore patterns of attrition across different groups, roles, and locations.
+This data gives us the foundation to explore patterns of attrition across different groups and roles.
 
 ### Tools Used
 
@@ -48,7 +47,6 @@ These steps help transform the raw data into a format that’s cleaner, more con
 
 <img width="1584" height="396" alt="Blue Dark Blue Gradients Corporate LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/09691dc7-f035-47eb-95e9-a65d0fea7f08" />
 
-![HR-Dashboard.png](https://public.tableau.com/views/HR_Analytics_17558935452910/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 The first step in exploring the data was to build simple visualizations to see how employee attrition was distributed across the company. This revealed that turnover is not evenly spread—certain groups and roles are much more affected than others.
 
@@ -62,6 +60,9 @@ The first step in exploring the data was to build simple visualizations to see h
 + Relationship Satisfaction: 24.05%
 
 **Age group most affected:** 24–45 years
+
+![HR-Dashboard.png](https://public.tableau.com/views/HR_Analytics_17558935452910/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 
 **By Department:**
 
@@ -96,7 +97,7 @@ The first step in exploring the data was to build simple visualizations to see h
 |                     | Doctorate                     | 10.42% (Lowest) |
 
 
-In short, attrition is most concentrated in the **24–45 age group**, **sales roles**, and among employees with **lower education levels**. Another noable finding is that the percentage of people stating the key satisfaction drivers **needs improvement** are quite high. These findings highlight where the company may need to focus retention efforts first.
+In short, attrition is most concentrated in the **24–45 age group**, **sales roles**, and among employees with **lower education levels**. Another notable finding is that the percentage of people stating that the key satisfaction drivers **needs improvement** are quite high. These findings highlight where the company may need to focus retention efforts first.
 
 ### Data Analysis
 <img width="1584" height="396" alt="Blue Dark Blue Gradients Corporate LinkedIn Banner (2)" src="https://github.com/user-attachments/assets/8da77151-004a-4f73-8868-37993a11c4f7" />
@@ -148,6 +149,9 @@ Create a people-friendly workplace
 4. Update company policies to recognize that employees have lives outside of work. Show genuine care for their well-being and balance by building flexibility and trust.
 + Provide clear career growth opportunities
 5. Ensure that employees at every level can see a future within the company. Make career advancement a core part of the organization’s long-term goals and strategy.
+
+  <img width="2048" height="2048" alt="Gemini_Generated_Image_63drlm63drlm63dr" src="https://github.com/user-attachments/assets/27bbd6de-5fec-4dd1-8cd0-8d82649611f4" />
+
 
 ### Limitations
 + Correlation ≠ causation: The dashboard shows where attrition is high, not why. You’ll need qualitative inputs (exit/stay interviews) to confirm causes.
