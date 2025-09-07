@@ -48,6 +48,8 @@ These steps help transform the raw data into a format that’s cleaner, more con
 
 <img width="1584" height="396" alt="Blue Dark Blue Gradients Corporate LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/09691dc7-f035-47eb-95e9-a65d0fea7f08" />
 
+![HR-Dashboard.png](https://public.tableau.com/views/HR_Analytics_17558935452910/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 The first step in exploring the data was to build simple visualizations to see how employee attrition was distributed across the company. This revealed that turnover is not evenly spread—certain groups and roles are much more affected than others.
 
 + **Overall attrition rate:** 16.12%
