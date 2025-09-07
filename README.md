@@ -1,7 +1,8 @@
 # Employee-Attrition-Analysis
 
-## This report provides an analysis of the company's employee attrition rate and the factors contributing to it.
+## Analysis of the company's employee attrition rate and the factors contributing to it.
 
+<img width="1920" height="1080" alt="EMPLOYEE ATTRITION ANALYSIS" src="https://github.com/user-attachments/assets/681e58a4-8a44-438a-8036-54fc474fd3dd" />
 
 ### Project Overview: Understanding Why Employees Leave
 
@@ -18,6 +19,7 @@ Right now, the company keeps track of how many employees leave, but we don’t f
 + What factors are most closely linked to an employee’s decision to leave (for example, wprking conditions, Environment Satisfaction, Work-Life Balance, Job Satisfaction ans relationship Satisfaction?
 
 Without clear, data-driven answers to these questions, our retention efforts risk being reactive rather than strategic. This means we may spend time and resources on the wrong solutions, while still losing valuable talent.
+![WhatsApp Image 2025-09-06 at 10 13 28 PM](https://github.com/user-attachments/assets/db24e8bf-4851-4a98-abab-c593c93bfaf9)
 
 ### Data Sources
 
@@ -43,6 +45,9 @@ To make sure the analysis was accurate and reliable, the raw data was cleaned an
 These steps help transform the raw data into a format that’s cleaner, more consistent, and ready for meaningful insights. The data was basically clean.
 
 ### Exploratory Data Analysis (EDA)
+
+<img width="1584" height="396" alt="Blue Dark Blue Gradients Corporate LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/09691dc7-f035-47eb-95e9-a65d0fea7f08" />
+
 The first step in exploring the data was to build simple visualizations to see how employee attrition was distributed across the company. This revealed that turnover is not evenly spread—certain groups and roles are much more affected than others.
 
 + **Overall attrition rate:** 16.12%
@@ -92,6 +97,9 @@ The first step in exploring the data was to build simple visualizations to see h
 In short, attrition is most concentrated in the **24–45 age group**, **sales roles**, and among employees with **lower education levels**. Another noable finding is that the percentage of people stating the key satisfaction drivers **needs improvement** are quite high. These findings highlight where the company may need to focus retention efforts first.
 
 ### Data Analysis
+<img width="1584" height="396" alt="Blue Dark Blue Gradients Corporate LinkedIn Banner (2)" src="https://github.com/user-attachments/assets/8da77151-004a-4f73-8868-37993a11c4f7" />
+
+
 To move beyond surface-level numbers, several advanced features in Tableau were used to uncover deeper insights.
 
 One of the most useful tools was Level of Detail (LOD) Expressions, which allowed us to make more precise comparisons. For example, we created a calculation to see how each department’s attrition rate compares to the overall company average. This way, the dashboard doesn’t just show that the Sales department has high attrition—it shows exactly how much higher it is compared to the company as a whole, giving leadership clearer context.
@@ -104,6 +112,8 @@ Another important feature was adding interactive dashboard actions. For instance
 SUM([Attrition Count]) / SUM([Employee Count])
 
 ### Results & Findings
+
+<img width="1584" height="396" alt="Blue Dark Blue Gradients Corporate LinkedIn Banner (3)" src="https://github.com/user-attachments/assets/6ed720eb-3b21-4efd-964b-216a42fea879" />
 
 + Overall attrition: 16.12% (that’s 237 out of 1,470 employees).
 + Department hotspots: Sales is the biggest contributor to departures, followed closely by Development. Together, they account for most exits.
